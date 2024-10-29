@@ -1,0 +1,7 @@
+streamlit
+google-cloud-vision
+python-docx
+requests
+python-dotenv
+python-docx
+google-generative-ai
